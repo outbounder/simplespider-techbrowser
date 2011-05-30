@@ -1,0 +1,40 @@
+﻿<Properties>
+  <MonoDevelop.Ide.ItemProperties.simplespider-techbrowser ctype="Properties">
+    <MonoDevelop.Ide.CustomExecutionModes ctype="CustomExecutionModes">
+      <Data Name="obi.wizartworx.com all" Id="a71c3b85-9061-482d-ad96-e2aaf59066a1" ModeId="Default">
+        <CommandData>
+          <Item Key="MonoDevelop.Ide.Execution.CustomArgsCustomizer">
+            <Value Arguments=" -depth 1 -url http://obi.wizartworx.com -mode all" ctype="CustomArgsExecutionModeData">
+              <EnvironmentVariables />
+            </Value>
+          </Item>
+          <Item Key="MonoDevelop.Ide.Execution.MonoExecutionCustomizer">
+            <Value ctype="MonoExecutionParameters" />
+          </Item>
+        </CommandData>
+      </Data>
+    </MonoDevelop.Ide.CustomExecutionModes>
+  </MonoDevelop.Ide.ItemProperties.simplespider-techbrowser>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" ctype="Workspace" />
+  <MonoDevelop.Ide.Workbench ctype="Workbench">
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="simplespider-techbrowser" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True">
+          <Node name="simplespider-techbrowser" expanded="True" selected="True">
+            <Node name="simplespidertechbrowser" expanded="True">
+              <Node name="app" expanded="True">
+                <Node name="controllers" expanded="True" />
+                <Node name="models" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
